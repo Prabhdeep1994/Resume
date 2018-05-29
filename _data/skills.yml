@@ -1,0 +1,24 @@
+# Skills
+
+- skill: Programming and Markup Languages
+  description: Java, C/C++, ASP.Net, Jekyll, Ruby, REST Web Service,HTML5, CSS3, JavaScript, Bootstrap, jQuery, AJAX and XML.  
+
+- skill: Relational Databases
+  description: MySQL, SQlite3, Oracle, SQL Server 2008
+
+- skill: Application Program Interface
+  description:  JDBC, Servlets, JSP, Google Drive.
+
+
+- skill: Integrated Development Environment
+  description:  Eclipse, INTELLIJ and GIT. 
+
+- skill: Framework 
+  description:  Spring MVC, JPA/Hibernate
+
+- skill: Application Server and Build Tool.
+  description: Apache Tomcat and Maven. 
+  
+- skill: Testing and Version Control System
+  description: Junit, Checkstyle, PMD, findBugs and Github
+

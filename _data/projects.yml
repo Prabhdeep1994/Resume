@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+- project: Library Management System
+  role: Group project(Part of a Development Team)
+  duration: May, 2013(Minor Project)
+  # url: "#"
+  description: <ul><li>Technology Used - HTML, CSS, Bootstrap, PHP, JavaScript, jQuery. </li><li>Develop a library management system allows user to check the availability of books. Some other feature includes searching the library with specific filters, suggest any book to library, register and login into the system.</li></ul>
+
+- project: Candidate Training and Recruitment Management Software 
+  role: Develop backend using SQL 2008
+  duration: Aug, 2012
+  # url: "#"
+  description: <ul><li>Developed web based candidate software for a job placement agency “Empower Recruitment”. </li><li>Front end developed using ASP.NET with C#.NET. </li><li>Backend development using SQL Server 2008.</li></ul>
+
+ 
